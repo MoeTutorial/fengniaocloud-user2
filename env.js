@@ -2,7 +2,7 @@
 window.routerBase = 'https://back.fengniaoyun.site/'
 window.settings = {
   // 站点名称
-  title: '蜂鸟云',
+  title: '蝴蝶云加速(原蜂鸟云)',
   // 站点描述
   description: '快速、自由的网络连接方式',
   assets_path: '/assets',
